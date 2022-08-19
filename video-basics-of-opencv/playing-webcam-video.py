@@ -1,6 +1,6 @@
 import cv2
 
-video_path = 0
+video_path = "object_tracking/highway.mp4"
 cap = cv2.VideoCapture(video_path)
 
 while cap.isOpened():

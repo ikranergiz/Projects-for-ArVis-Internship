@@ -1,6 +1,6 @@
 import cv2
 
-video_path = "videos/IMG_6586.MOV"
+video_path = "../videos/IMG_6586.mp4"
 cap = cv2.VideoCapture(video_path)
 
 while cap.isOpened():
@@ -18,5 +18,6 @@ while cap.isOpened():
 
     else:
         break
+
 cap.release()
 cv2.destroyAllWindows()
