@@ -7,11 +7,14 @@ This repository contains all of my works associated with OpenCV by using website
 Introduction to Dijital Image Processing with OpenCV (TR)
 https://www.youtube.com/watch?v=ytsvnQpyFZg&t=3993s
 
-OpenCV Tutorial (PyImageSearch)
+OpenCV Tutorial
 https://pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/
 
 Simple Object Tracking with OpenCV
 https://pyimagesearch.com/2018/07/23/simple-object-tracking-with-opencv/
 
-Object Traking with Stable Camera
+Object Tracking with Stable Camera
 https://www.youtube.com/watch?v=O3b8lVF93jU
+
+Object Tracking with Trackers in OpenCV
+https://livecodestream.dev/post/object-tracking-with-opencv/
