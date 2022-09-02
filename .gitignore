@@ -46,3 +46,6 @@ yolov5/
 
 #OIDv4_Toolkit/
 OIDv4_Toolkit/
+
+#.idea
+.idea/
