@@ -23,7 +23,7 @@ Hand Pose Estimation
 https://google.github.io/mediapipe/solutions/hands.html
 https://techtutorialsx.com/2021/04/10/python-hand-landmark-estimation/
 
-# Object Detection YOLOv5
+Object Detection YOLOv5
 https://blog.roboflow.com/how-to-train-yolov5-on-a-custom-dataset/
 https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb
 https://colab.research.google.com/drive/11WgrmTiZvL15Gl0ldqC67tZ2aWI_MQ0B?hl=tr#scrollTo=HEKGP-Ao1Zvl
