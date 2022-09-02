@@ -2,7 +2,12 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Eyes-Position-Estimator-Mediapipe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OIDv4_ToolKit" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/light-detector" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/object-Detection Roboflow-Train Yolov5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/object-detection-roboflow-train-yolov5" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/yoloV4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yolov5" vcs="Git" />
   </component>
 </project>

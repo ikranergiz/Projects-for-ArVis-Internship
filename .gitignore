@@ -37,3 +37,12 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+
+# Dataset
+Dataset/
+
+#yolov5
+yolov5/
+
+#OIDv4_Toolkit/
+OIDv4_Toolkit/

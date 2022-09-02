@@ -6,10 +6,10 @@ mp_drawing_styles = mp.solutions.drawing_styles
 mp_hands = mp.solutions.hands
 
 image_path = "hand.png"
-
 image = cv2.imread(image_path)
 
 with mp_hands.Hands() as hands:
+
     # Hand pose estimation
     results = hands.process((cv2.cvtColor(image, cv2.COLOR_BGR2RGB)))
 
