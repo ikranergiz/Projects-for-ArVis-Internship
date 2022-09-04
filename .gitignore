@@ -2,6 +2,7 @@
 photos/
 *.img
 *.png
+*.jpg
 
 # videos
 videos/
@@ -49,3 +50,11 @@ OIDv4_Toolkit/
 
 #.idea
 .idea/
+
+#yolov4
+*.cfg
+*.weights
+*.names
+
+#project
+withcolor_extra.py

@@ -8,7 +8,7 @@ if __name__ == '__main__':
 
     # Set up tracker.
     tracker_types = ['BOOSTING', 'MIL', 'KCF', 'TLD', 'MEDIANFLOW', 'GOTURN', 'MOSSE', 'CSRT']
-    tracker_type = tracker_types[0]
+    tracker_type = tracker_types[5]
 
     # Check the version.
     if int(minor_ver) < 3:
