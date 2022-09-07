@@ -7,6 +7,9 @@ photos/
 # videos
 videos/
 
+#.idea
+.idea/
+
 # packages
 
 # log
@@ -58,3 +61,9 @@ OIDv4_Toolkit/
 
 #project
 withcolor_extra.py
+some-examples.py
+script.py
+
+#runs
+runs/
+
