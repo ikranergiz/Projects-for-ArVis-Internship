@@ -7,9 +7,6 @@ photos/
 # videos
 videos/
 
-#.idea
-.idea
-
 # packages
 
 # log
@@ -51,9 +48,6 @@ yolov5/
 #OIDv4_Toolkit/
 OIDv4_Toolkit/
 
-#.idea
-.idea/
-
 #yolov4
 *.cfg
 *.weights
@@ -63,6 +57,7 @@ OIDv4_Toolkit/
 withcolor_extra.py
 some-examples.py
 script.py
+yolov5_detection.py
 
 #runs
 runs/
