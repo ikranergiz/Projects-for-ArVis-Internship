@@ -1,11 +1,15 @@
-# OpenCV-Hands-on-Works
+# About This Repository
 
-This repository contains all of my works associated with OpenCV by using websites and Youtube videos.
+During the 6-week intership in ArVis technology, we need to build a project as a group. For doing this, I made several projects on object detection, object tracking and human pose estimation. 
 
--RESOURCES-
+First of all, I started to study basics of OpenCV. After that, trying to track objects with OpenCV trackers I used a few trackers such as GOTURN, BOOSTING and MIL. Then, for the purpose of detecting mobile-phone, I also worked on YOLOv4-YOLOv5 models. As a last step, I used Mediapipe Hands API to detect hand landmarks.
 
-Introduction to Dijital Image Processing with OpenCV (TR)
-https://www.youtube.com/watch?v=ytsvnQpyFZg&t=3993s
+---
+
+## Resources
+
+- [Introduction to Dijital Image Processing with OpenCV] (https://www.youtube.com/watch?v=ytsvnQpyFZg&t=3993s)
+- [YouTube video lecture](https://www.youtube.com/watch?v=VMj-3S1tku0)
 
 OpenCV Tutorial
 https://pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/
