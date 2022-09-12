@@ -8,12 +8,10 @@ First of all, I started to study basics of OpenCV. After that, trying to track o
 
 ## Resources
 
-- [Introduction to Dijital Image Processing with OpenCV] (https://www.youtube.com/watch?v=ytsvnQpyFZg&t=3993s)
+- [Introduction to Dijital Image Processing with OpenCV](https://www.youtube.com/watch?v=ytsvnQpyFZg&t=3993s)
 - [YouTube video lecture](https://www.youtube.com/watch?v=VMj-3S1tku0)
 
-OpenCV Tutorial
-https://pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/
-
+- [OpenCV Tutorial](https://pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/)
 Simple Object Tracking with OpenCV
 https://pyimagesearch.com/2018/07/23/simple-object-tracking-with-opencv/
 
